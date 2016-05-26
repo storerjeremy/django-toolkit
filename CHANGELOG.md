@@ -1,3 +1,7 @@
+# Release 0.2.3 - Thu May 26 15:18:18 AEST 2016
+
+- Updated to work with Django 1.9
+
 # Release 0.2.2 - Mon Jun 29 10:42:33 AEST 2015
 
 - Changed requirements to Django>=1.7,<1.9
